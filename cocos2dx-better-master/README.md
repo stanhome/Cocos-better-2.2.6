@@ -1,8 +1,8 @@
 !!NOTE!!
 ===
-I already merged cocos2dx-better code to cocos2d-x v2, here is my new repo: [cocos2dx-classical](https://github.com/stubma/cocos2dx-classical). So, cocos2dx-better is end.
+orignal ref: [cocos2dx-classical](https://github.com/stubma/cocos2dx-classical). So, cocos2dx-better is end.
 
-我已开始将cocos2dx-better的代码合并到了cocos2d-x v2中, 新的项目叫[cocos2dx-classical](https://github.com/stubma/cocos2dx-classical), cocos2dx-better将不再维护.
+the new: [cocos2dx-classical](https://github.com/stubma/cocos2dx-classical)
 
 Better Cocos2d-x
 ===============
